@@ -26,7 +26,10 @@ Packaged: 2024-05-22 05:43:20 UTC; 17993
 Suggests: testthat (>= 3.0.0)
 
 Config/testthat/edition: 3
+
 Author: Guangbao Guo [aut, cre, cph],
   Jiarui Li [ctb]
+  
 Repository: CRAN
+
 Date/Publication: 2024-05-25 17:20:09 UTC
