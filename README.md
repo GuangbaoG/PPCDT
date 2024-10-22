@@ -7,7 +7,7 @@ Authors@R: c(person("Guangbao Guo",role = c("aut", "cre","cph"),email = "ggb1111
 
 Maintainer: Guangbao Guo <ggb11111111@163.com>
 
-Description: In the era of big data, data redundancy and distributed characteristics pose new challenges to data analysis. This article proposes a method of optimal subset estimation for redundant distributed data based on PPC. Through PPC technology, this method can effectively extract useful information from redundant distributed data and estimate the optimal subset. Experimental results show that this method can improve data quality and utilization efficiency and evaluate its performance.The philosophy of the package is described in Guo G. (2020) <doi:10.1007/s00180-020-00974-4>.
+In the era of big data, data redundancy and distributed characteristics pose new challenges to data analysis. This article proposes a method of optimal subset estimation for redundant distributed data based on PPC. Through PPC technology, this method can effectively extract useful information from redundant distributed data and estimate the optimal subset. Experimental results show that this method can improve data quality and utilization efficiency and evaluate its performance.The philosophy of the package is described in Guo G. (2020) <doi:10.1007/s00180-020-00974-4>.
 
 License: MIT + file LICENSE
 
